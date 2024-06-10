@@ -4,3 +4,5 @@ kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
 rockylinux:9.3.20231119-minimal
+velero/velero:v1.13.2
+ rancher/rancher:v2.8.4
