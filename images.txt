@@ -7,3 +7,4 @@ rockylinux:9.3
 velero/velero:v1.13.2
 velero/velero-plugin-for-aws:v1.9.2
 rancher/rancher:v2.8.4
+openjdk:17-jdk-slim
