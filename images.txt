@@ -10,3 +10,4 @@ velero/velero-plugin-for-aws:v1.9.2
 rancher/rancher:v2.8.4
 openjdk:17-jdk-slim
 mysql:8.0
+bitnami/prometheus
