@@ -11,3 +11,4 @@ rancher/rancher:v2.8.4
 openjdk:17-jdk-slim
 mysql:8.0
 bitnami/prometheus
+skywalking-oap-server:10.0.0-java17
