@@ -11,4 +11,4 @@ rancher/rancher:v2.8.4
 openjdk:17-jdk-slim
 mysql:8.0
 bitnami/prometheus
-liangliangyy/djangoblog
+b3log/solo
