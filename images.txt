@@ -1,2 +1,3 @@
 alpine
 wvp-GB28181-pro
+nginx
