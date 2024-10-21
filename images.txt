@@ -1,1 +1,1 @@
-zyronon/douyin-vue:latest
+ghcr.io/zyronon/douyin-vue:latest
