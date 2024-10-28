@@ -1,1 +1,1 @@
-ghcr.io/zyronon/douyin-vue:latest
+ubuntu:20.04
