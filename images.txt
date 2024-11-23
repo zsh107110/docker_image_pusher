@@ -1,10 +1,7 @@
 ubuntu:20.04
 registry:latest
 panll/wvp-GB28181-pro:latest
-kube-apiserver:v1.28.15
-kube-controller-manager:v1.28.15
-kube-scheduler:v1.28.15
-kube-proxy:v1.28.15
-pause:3.9
-etcd:3.5.9-0
-coredns/coredns:v1.10.1
+docker.io/flannel/flannel-cni-plugin:v1.6.0-flannel1
+flannel/flannel-cni-plugin:v1.6.0-flannel1
+docker.io/flannel/flannel:v0.26.1
+flannel/flannel:v0.26.1
