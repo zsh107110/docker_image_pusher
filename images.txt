@@ -1,5 +1,1 @@
-kubernetesui/dashboard:v2.6.0
-kubernetesui/metrics-scraper:v1.0.8
-centos
-snowdreamtech/frps
-ghcr.io/wg-easy/wg-easy
+--platform=arm64 ubuntu:20.04.5
