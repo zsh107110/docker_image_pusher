@@ -1,1 +1,1 @@
---platform=arm64 ubuntu:20.04.5
+--platform=arm64 ubuntu:20.04
