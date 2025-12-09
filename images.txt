@@ -1,1 +1,2 @@
---platform=arm64 pytorch/manylinuxaarch64-builder:cuda12.9
+pytorch/manylinuxaarch64-builder:cuda12.8
+#--platform=arm64 
