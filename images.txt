@@ -1,2 +1,2 @@
-pytorch/manylinuxaarch64-builder:cuda12.8
+ubuntu:22.04
 #--platform=arm64 
