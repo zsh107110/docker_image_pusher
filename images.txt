@@ -1,1 +1,1 @@
---platform=arm64 ubuntu:22.04
+#--platform=arm64 ubuntu:22.04
